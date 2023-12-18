@@ -3,7 +3,7 @@
 baseURL: "https://tejassp919.github.io/"
 title: Tejas Patil
 paginate: 5
-theme: [PaperModMod]
+theme: [PaperMod]
 
 enableRobotsTXT: true
 buildDrafts: false
