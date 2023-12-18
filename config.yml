@@ -1,0 +1,65 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+title: Tejas Patil
+paginate: 5
+theme: [PaperMod]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Search
+          url: search/
+          weight: 10
+          
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Tejas Patil's space"
+  author: Tejas
+  # author: ["Me", "You"] # multiple authors
+
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+
+  homeInfoParams:
+    Title: "Hey, I'm Tejas 👋"  
+    Content: >
+      Nice meeting you. I'm a software engineer at LG Ads Solution working in adspace.
+      I used to be an competetive coder during my college days at IIT Roorkee.
+      What you are looking at is a hobby piece of mine, feel free to explore and know more about me.
+
+  socialIcons:
+    - name: github
+      title: Github Profile
+      url: "https://github.com/tejassp919"
+    - name: linkedin
+      title: Linkedin Profile
+      url: "www.linkedin.com/in/tejasp919"
+    - name: codechef
+      title: Codechef Profile
+      url: "https://www.codechef.com/users/tejas_919"
+    - name: codeforces
+      title: Codeforces Profile
+      url: "https://codeforces.com/profile/tejas_919"
+
