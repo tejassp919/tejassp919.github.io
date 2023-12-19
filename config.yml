@@ -56,6 +56,14 @@ params:
   cover:
     responsiveImages: false
 
+  assets:
+      disableHLJS: true
+      favicon: "favicon.jpg"
+      favicon16x16: "favicon.jpg"
+      favicon32x32: "favicon.jpg"
+      apple_touch_icon: "favicon.jpg"
+      safari_pinned_tab: "favicon.jpg"
+
   homeInfoParams:
     Title: "Hey, I'm Tejas 👋"  
     Content: >
