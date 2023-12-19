@@ -59,9 +59,9 @@ params:
   homeInfoParams:
     Title: "Hey, I'm Tejas 👋"  
     Content: >
-      Nice meeting you. I'm a software engineer at LG Ads Solution working in adspace.
-      I used to be an competetive coder during my college days at IIT Roorkee.
-      What you are looking at is a hobby piece of mine, feel free to explore and know more about me.
+      I'm a software engineer working in ad space at LG Ads Solution.
+      Though a developer now, I used to be a competitive coder during my college days at IIT Roorkee.
+      What you are looking at is a hobby piece of mine. Feel free to explore and learn more about me.
 
   socialIcons:
     - name: linkedin
