@@ -22,7 +22,7 @@ The hardware we will be needing for this will be as follows:
 5. Ethernet cables
 6. (optional) M2 screws and bolts for attaching SSDs to a case or stand
 7. (Optional) Thermal pads for the processors
-8. (Optional) A stand to hold everything in place. You can get this 3D-printed from the STL files shared over my drive folder.
+8. (Optional) A stand to hold everything in place. You can get this 3D-printed from the STL files shared over [my drive folder](https://drive.google.com/drive/folders/1KmHGGpFbg1ewYMAAfnITalnCGhliis4d?usp=drive_link).
 9. (Optional) A fan to cool everything. [Amazon link](https://a.co/d/goxG4lU)
 10. (Optional) If you intend to 3D print the shared stand, you would need three 100 mm rods to hold the boards on the stand. [Amazon link](https://a.co/d/0HeK35E)
 
