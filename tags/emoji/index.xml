@@ -5,14 +5,14 @@
     <link>https://tejassp919.github.io/tags/emoji/</link>
     <description>Recent content in emoji on Tejas Patil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://tejassp919.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tejassp919.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Emoji Support</title>
-      <link>https://tejassp919.github.io/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Self-hosting applications using k3s over an Orange Pi cluster</title>
+      <link>https://tejassp919.github.io/posts/selfhostintro/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tejassp919.github.io/posts/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
+      <guid>https://tejassp919.github.io/posts/selfhostintro/</guid>
+      <description>This hobby project aims to build a small-scale, highly available, scalable server to host our applications and store our data durably using replication. To achieve the same, we would develop our server using 3 Orange Pi 5 boards and have k3s (a lighter version of Kubernetes) run over it. We would be using Longhorn to have data replication. The sample application we would be hosting is Seafile, an open-source file sync and share software.</description>
     </item>
     
   </channel>
