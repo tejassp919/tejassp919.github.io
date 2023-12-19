@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Tejas Patil</title>
-    <link>https://tejassp919.github.io/posts/</link>
+    <link>https://tejasp.com/posts/</link>
     <description>Recent content in Posts on Tejas Patil</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tejassp919.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tejasp.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Self-hosting applications using k3s over an Orange Pi cluster</title>
-      <link>https://tejassp919.github.io/posts/selfhostintro/</link>
+      <link>https://tejasp.com/posts/selfhostintro/</link>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://tejassp919.github.io/posts/selfhostintro/</guid>
+      <guid>https://tejasp.com/posts/selfhostintro/</guid>
       <description>This hobby project aims to build a small-scale, highly available, scalable server to host our applications and store our data durably using replication. To achieve the same, we would develop our server using 3 Orange Pi 5 boards and have k3s (a lighter version of Kubernetes) run over it. We would be using Longhorn to have data replication. The sample application we would be hosting is Seafile, an open-source file sync and share software.</description>
     </item>
     
