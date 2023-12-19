@@ -2,8 +2,11 @@
 title: "Self-hosting applications using k3s over an Orange Pi cluster"
 date: "2023-11-18"
 tags: ["setup", "hardware", "requirements", "intro"]
-ShowToc: false
-ShowBreadCrumbs: false
+cover:
+  image: server.jpeg
+  caption: "Image of the server we will be building"
+ShowToc: true
+TocOpen: true
 ---
 
 # 
